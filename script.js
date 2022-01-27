@@ -69,7 +69,7 @@ function item(c){
 
 function sortTable(c) {
   var table, rows, switching, i, x, y, shouldSwitch;
-  table = document.getElementById("myTable");
+  table = document.getElementById("Table");
   switching = true;
   
   while (switching) {
